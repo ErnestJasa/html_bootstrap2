@@ -1,0 +1,12 @@
+.container-fluid{
+	height: 200px;
+}
+.title{
+	width: 60%;
+	margin: 15% auto;
+}
+.sign-up{
+	
+	padding: 20px;
+	background-color: orange;
+}
